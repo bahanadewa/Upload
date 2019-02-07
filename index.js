@@ -25,4 +25,6 @@ for (var i=0 ; i<w.length ; i++){
     if (w[i] !==2){
         newArr.push(w[i])
     }
+var a = 'helo'
+
 }
