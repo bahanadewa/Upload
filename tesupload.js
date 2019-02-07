@@ -1,4 +1,4 @@
 for (i=0;i<4;i++){
-    console.log('hi')
+    console.log('nama')
 }
 console.log('coba terus')
